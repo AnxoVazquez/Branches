@@ -8,6 +8,7 @@ public class Ramas_contornos {
         int adios=78;
         int master=1;
         int rama=9;
+        int V2= 79;
         
     }
     
